@@ -9,6 +9,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { PoliciesComponent } from './fga/policies/policies.component';
 import { TermsComponent } from './fga/terms/terms.component';
 import { ClientsComponent } from './fga/clients/clients.component';
+import { ComingSoonComponent } from './pages/coming-soon/coming-soon.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { ClientsComponent } from './fga/clients/clients.component';
     AboutComponent,
     PoliciesComponent,
     TermsComponent,
-    ClientsComponent
+    ClientsComponent,
+    ComingSoonComponent
   ],
   imports: [
     BrowserModule,

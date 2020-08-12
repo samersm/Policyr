@@ -4,13 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Mock Plan
 
-![MockImage_001](https://raw.githubusercontent.com/samersm/policyr/master/images/Mock-Image-01.png)
+![MockImage_001](https://raw.githubusercontent.com/samersm/policyr/master/src/assets/images/Mock-Image-01.png)
 ___
-![MockImage_002](https://raw.githubusercontent.com/samersm/policyr/master/images/Mock-Image-02.png)
+![MockImage_002](https://raw.githubusercontent.com/samersm/policyr/master/src/assets/images/Mock-Image-02.png)
 ___
-![MockImage_003](https://raw.githubusercontent.com/samersm/policyr/master/images/Mock-Image-03.png)
+![MockImage_003](https://raw.githubusercontent.com/samersm/policyr/master/src/assets/images/Mock-Image-03.png)
 ___
-![MockImage_004](https://raw.githubusercontent.com/samersm/policyr/master/images/Mock-Image-04.png)
+![MockImage_004](https://raw.githubusercontent.com/samersm/policyr/master/src/assets/images/Mock-Image-04.png)
 
 ## Development server
 
