@@ -1,3 +1,4 @@
 $ npx create-next-app
 $ ng new policyr --directory ./ --skip-install --skip-git
+$ ng add @angular/material
 

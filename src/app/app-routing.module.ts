@@ -5,9 +5,9 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
-  { component: HomeComponent, path: 'home' },
+  { component: HomeComponent, path: '' },
   { component: AboutComponent, path: 'about' },
-  { component: ComingSoonComponent, path: '' }
+  { component: ComingSoonComponent, path: 'coming-soon' }
 ];
 
 @NgModule({

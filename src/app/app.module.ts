@@ -10,6 +10,8 @@ import { PoliciesComponent } from './fga/policies/policies.component';
 import { TermsComponent } from './fga/terms/terms.component';
 import { ClientsComponent } from './fga/clients/clients.component';
 import { ComingSoonComponent } from './pages/coming-soon/coming-soon.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatSliderModule } from '@angular/material/slider';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { ComingSoonComponent } from './pages/coming-soon/coming-soon.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    BrowserAnimationsModule,
+    MatSliderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
