@@ -12,6 +12,7 @@ import { ClientsComponent } from './fga/clients/clients.component';
 import { ComingSoonComponent } from './pages/coming-soon/coming-soon.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
+import { WordingComponent } from './fga/wording/wording.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { MatSliderModule } from '@angular/material/slider';
     PoliciesComponent,
     TermsComponent,
     ClientsComponent,
-    ComingSoonComponent
+    ComingSoonComponent,
+    WordingComponent
   ],
   imports: [
     BrowserModule,
